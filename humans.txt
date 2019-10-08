@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Lamar Thornton  lamar.thornton@autozone.com
 
 # TECHNOLOGY COLOPHON
 
